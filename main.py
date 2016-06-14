@@ -6,6 +6,8 @@ import numpy as np
 IP = "192.168.102.47"
 UDP_port = 5000
 
+# Changes here
+
 cam = c.VideoCapture(0);
 rBlock = 4
 cBlock = 3
